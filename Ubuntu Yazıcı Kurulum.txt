@@ -1,0 +1,3 @@
+Ubuntu Yazıcı Kurulum
+1)sudo apt instal1121l p1rinter-driver-gutenprint 
+2)Yazıcıyı ayarlardan sil ve tekrar ekle
